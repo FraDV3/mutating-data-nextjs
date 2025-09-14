@@ -1,0 +1,15 @@
+{
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "github.copilot.enable": {
+    "css": true,
+    "html": true,
+    "javascript": true,
+    "javascriptreact": true,
+    "json": true,
+    "jsonc": true,
+    "python": true,
+    "sql": true,
+    "typescript": true,
+    "typescriptreact": true
+  }
+}
